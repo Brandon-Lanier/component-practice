@@ -11,6 +11,7 @@ function Highpriority() {
             <div className="task-box">
                 <Hightask />
                 <Hightask />
+                <Hightask />
             </div>
         </div>
     )

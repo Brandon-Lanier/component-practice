@@ -4,7 +4,8 @@ import Header from '../Header/Header';
 import Topbar from '../Topbar/Topbar';
 import Highpriority from '../Highprioprity/Highpriority';
 import Mediumpriority from '../Mediumpriority/Mediumpriority';
-import Lowpriority from '../Lowpriority/Lowpriority'
+import Lowpriority from '../Lowpriority/Lowpriority';
+import Togglebuttons from '../Togglebuttons/Togglebuttons';
 
 function App() {
   return (
@@ -13,6 +14,9 @@ function App() {
       <Header />
       </header>
       <Topbar />
+      <section>
+        <Togglebuttons />
+      </section>
       <main>
       <Highpriority />
       <Mediumpriority />

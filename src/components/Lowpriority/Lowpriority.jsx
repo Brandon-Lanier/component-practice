@@ -10,6 +10,7 @@ function Lowpriority() {
             </div>
             <div className="task-box">
              <Lowtask />
+             <Lowtask />
             </div>
         </div>
     )
