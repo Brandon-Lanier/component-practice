@@ -1,0 +1,18 @@
+.task-container {
+    width: 300px;
+    margin: 0;
+    padding: 10px;
+    align-self: baseline;
+    flex-grow: 0;
+}
+
+.high-title {
+    background-color: #d7d6c7;
+    box-shadow: 0 2px 5px #7b7b7b;
+    border-radius: 10px;
+    margin: 0;
+    padding: 10px;
+    font-style: italic;
+    text-align: center;
+}
+
