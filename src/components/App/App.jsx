@@ -7,6 +7,7 @@ import Mediumpriority from '../Mediumpriority/Mediumpriority';
 import Lowpriority from '../Lowpriority/Lowpriority';
 import Togglebuttons from '../Togglebuttons/Togglebuttons';
 
+
 function App() {
   return (
     <div className="App">
